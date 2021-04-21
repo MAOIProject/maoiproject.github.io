@@ -19,7 +19,7 @@ subtitle: "Multimodal Analysis of Opinions in Interactions"
 description: "The team of Chloé Claval, at Télécom Paris, studies the interactions between humans and virtual agents, with an emphasis on analyzing the relation between users' socio-affective behavior and their socio-affective interaction strategies."
 url: "https://maoiproject.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/maoiproject.github.io"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
